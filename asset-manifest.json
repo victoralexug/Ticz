@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ticz/static/css/main.8cd2d4cc.css",
-    "main.js": "/ticz/static/js/main.184676fc.js",
+    "main.js": "/ticz/static/js/main.6c697f99.js",
     "static/js/488.9e89f9f4.chunk.js": "/ticz/static/js/488.9e89f9f4.chunk.js",
     "index.html": "/ticz/index.html",
     "main.8cd2d4cc.css.map": "/ticz/static/css/main.8cd2d4cc.css.map",
-    "main.184676fc.js.map": "/ticz/static/js/main.184676fc.js.map",
+    "main.6c697f99.js.map": "/ticz/static/js/main.6c697f99.js.map",
     "488.9e89f9f4.chunk.js.map": "/ticz/static/js/488.9e89f9f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8cd2d4cc.css",
-    "static/js/main.184676fc.js"
+    "static/js/main.6c697f99.js"
   ]
 }
