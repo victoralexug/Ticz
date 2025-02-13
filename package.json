@@ -1,6 +1,6 @@
 {
-  "name": "ticz",
-  "homepage": "https://victoralexug.github.io/ticz",
+  "name": "color-game",
+  "homepage": "https://victoralexug.github.io/color-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
